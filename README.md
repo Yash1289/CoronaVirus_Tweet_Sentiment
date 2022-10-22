@@ -45,7 +45,7 @@ libraries locally in our machine.
 
 ## Code
 
-The main code is provided in the `Coronavirus_Tweet_Sentiment_Analysis_Capstone_Project.ipynb`
+The main code is provided in the `Coronavirus_Tweet_Sentiment_Analysis.ipynb`
 notebook file. We will also require the dataset
 `Coronavirus Tweets.csv` in which all the tweets along with a few other
 information is stored.
@@ -55,11 +55,11 @@ In a terminal or command window, navigate to the top-level project directory (th
 and run one of the following commands:
 
 ```
-ipython notebook Coronavirus_Tweet_Sentiment_Analysis_Capstone_Project.ipnyb
+ipython notebook Coronavirus_Tweet_Sentiment_Analysis.ipnyb
 ```
 or
 ```
-jupyter notebook Coronavirus_Tweet_Sentiment_Analysis_Capstone_Project.ipnyb
+jupyter notebook Coronavirus_Tweet_Sentiment_Analysis.ipnyb
 ```
 or open with Jupyter Lab
 ```
