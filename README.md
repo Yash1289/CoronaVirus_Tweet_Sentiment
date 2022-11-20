@@ -4,23 +4,8 @@
 
 # Coronavirus Tweet Sentiment Analysis
 
-COVID-19 is the disease caused by
-SARS-CoV-2, the coronavirus that
-emerged in December 2019. COVID-19
-was declared a global pandemic on
-March 11, 2020. COVID-19 can be
-severe, and has caused millions of
-deaths around the world as well as
-lasting health problems in some who
-have survived the illness. For this
-project we are using one
-coronavirus tweets dataset which
-contains Tweets which if simply put is a
-kind of short message sent on twitter
-(a social media platform) on the topic of coronavirus. By analyzing, cleaning and pre-processing 
-the tweets present in the dataset and by passing the resultant data into 
-a ML model , we can classify the sentiment of any tweet on coronavirus into 
-positive, negative or neutral class.
+COVID-19 is caused by SARS-CoV-2, the coronavirus that emerged in December 2019. COVID-19 was declared a global pandemic on March 11, 2020. COVID-19 can be severe and has caused millions of deaths worldwide and lasting health problems in some who have survived the illness. In this project, I have built a sentiment analysis model using tweets extracted from Twitter posted on coronavirus. By analyzing, cleaning and pre-processing all the tweets and feeding the resultant data into an ML model, we can classify the sentiment of any tweet on coronavirus into positive, negative or neutral classes.
+
 ## Install
 
 This project requires Python and the following Python libraries installed
